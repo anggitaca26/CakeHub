@@ -81,7 +81,7 @@
         });
 
         // KIRIM KE GOOGLE SHEETS (PRAKTIKUM)
-        fetch('https://script.google.com/macros/s/AKfycbyCDMmWQcafbyodkOCSigSwVlMpihb1teK69junhdFAmVfRY22dmDVPN7d5tVO3cuxBaA/exec', {
+        fetch('hhttps://script.google.com/macros/s/AKfycbyXwWxyLjXN0ntYQ_q77OZJuiFx8ZmVL-n471OE5BgtvbnZl1Ku7CoJa9Cm2-O_AwVXzA/exec', {
             method: 'POST',
             body: new URLSearchParams({
                 nama: fd.get('nama'),
